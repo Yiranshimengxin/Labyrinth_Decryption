@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: ddd614f72ebd32943a990d9f4032c531
+timeCreated: 1495075171
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "\u5899\u4E0A\u9762\u5177"
+    100004: "\u653E\u77F3\u5934\u7684\u77F3\u5323"
+    100006: "\u6C34\u6C60\u58C101"
+    100008: "\u6C34\u6C60\u58C102"
+    100010: "\u6C34\u6C60\u58C103"
+    100012: "\u6C34\u6C60\u58C104"
+    100014: "\u77F3\u5323\u76D6\u5B50"
+    100016: "\u77F3\u706F"
+    100018: "\u77F3\u72EE\u5B50001"
+    100020: "\u77F3\u72EE\u5B50002"
+    100022: "\u8377\u82B1\u53F6"
+    100024: "\u8377\u82B1\u6C60"
+    100026: "\u8377\u82B1\u6C60\u5E95"
+    400000: //RootNode
+    400002: "\u5899\u4E0A\u9762\u5177"
+    400004: "\u653E\u77F3\u5934\u7684\u77F3\u5323"
+    400006: "\u6C34\u6C60\u58C101"
+    400008: "\u6C34\u6C60\u58C102"
+    400010: "\u6C34\u6C60\u58C103"
+    400012: "\u6C34\u6C60\u58C104"
+    400014: "\u77F3\u5323\u76D6\u5B50"
+    400016: "\u77F3\u706F"
+    400018: "\u77F3\u72EE\u5B50001"
+    400020: "\u77F3\u72EE\u5B50002"
+    400022: "\u8377\u82B1\u53F6"
+    400024: "\u8377\u82B1\u6C60"
+    400026: "\u8377\u82B1\u6C60\u5E95"
+    2300000: "\u5899\u4E0A\u9762\u5177"
+    2300002: "\u653E\u77F3\u5934\u7684\u77F3\u5323"
+    2300004: "\u6C34\u6C60\u58C101"
+    2300006: "\u6C34\u6C60\u58C102"
+    2300008: "\u6C34\u6C60\u58C103"
+    2300010: "\u6C34\u6C60\u58C104"
+    2300012: "\u77F3\u5323\u76D6\u5B50"
+    2300014: "\u77F3\u706F"
+    2300016: "\u77F3\u72EE\u5B50001"
+    2300018: "\u77F3\u72EE\u5B50002"
+    2300020: "\u8377\u82B1\u53F6"
+    2300022: "\u8377\u82B1\u6C60\u5E95"
+    3300000: "\u5899\u4E0A\u9762\u5177"
+    3300002: "\u653E\u77F3\u5934\u7684\u77F3\u5323"
+    3300004: "\u6C34\u6C60\u58C101"
+    3300006: "\u6C34\u6C60\u58C102"
+    3300008: "\u6C34\u6C60\u58C103"
+    3300010: "\u6C34\u6C60\u58C104"
+    3300012: "\u77F3\u5323\u76D6\u5B50"
+    3300014: "\u77F3\u706F"
+    3300016: "\u77F3\u72EE\u5B50001"
+    3300018: "\u77F3\u72EE\u5B50002"
+    3300020: "\u8377\u82B1\u53F6"
+    3300022: "\u8377\u82B1\u6C60\u5E95"
+    4300000: "\u8377\u82B1\u53F6"
+    4300002: "\u6C34\u6C60\u58C103"
+    4300004: "\u8377\u82B1\u6C60\u5E95"
+    4300006: "\u6C34\u6C60\u58C102"
+    4300008: "\u6C34\u6C60\u58C101"
+    4300010: "\u6C34\u6C60\u58C104"
+    4300012: "\u77F3\u72EE\u5B50001"
+    4300014: "\u77F3\u72EE\u5B50002"
+    4300016: "\u653E\u77F3\u5934\u7684\u77F3\u5323"
+    4300018: "\u77F3\u5323\u76D6\u5B50"
+    4300020: "\u5899\u4E0A\u9762\u5177"
+    4300022: "\u77F3\u706F"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
